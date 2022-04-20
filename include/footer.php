@@ -9,7 +9,7 @@
 
     <body>
         <footer>
-            <p id="footer">Copyright © Hamza Echamlali</p>
+            <p id="footer">Copyright © <a style="color:red" href="https://github.com/HamzaEchamlali/Biblioweb" target="_blank"> Hamza Echamlali </a></p>
         </footer>
     </body>
 
