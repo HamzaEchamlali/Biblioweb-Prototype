@@ -1,7 +1,7 @@
 # [Prototype] Biblioweb V.1.0
 
 Biblioweb is an online library management project with its users.
-Try the prototype : http://biblioweb.42web.io/
+Try the prototype on http://biblioweb.42web.io/
 
 [ Features ]
 - Registration with data validation (login,email,password)
